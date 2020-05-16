@@ -1,0 +1,38 @@
+.winner{
+	color: green;
+
+}
+
+button{
+		cursor: pointer;
+			}
+
+#p1:hover{
+	background:pink; 
+}
+
+#p2:hover{
+	background:pink; 
+}
+
+#rbutton:hover{
+	background:grey; 
+}
+
+.winner{
+	color: green;
+}
+body{
+	margin-left: 33%;
+	margin-top: 200px;
+}
+
+div
+{
+	text-align: center;
+		border: 1px solid red;
+		padding-bottom: 22px;
+		padding-left: 2px;
+		width: 400px;
+
+}
